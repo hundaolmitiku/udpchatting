@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace UDPfinishing.Properties {
+namespace WindowsFormsApplication1.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
@@ -37,61 +37,37 @@ namespace UDPfinishing.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("1")]
-        public int port_sender {
-            get {
-                return ((int)(this["port_sender"]));
-            }
-            set {
-                this["port_sender"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("2")]
-        public int port_reciver {
+        public int Send_port {
             get {
-                return ((int)(this["port_reciver"]));
+                return ((int)(this["Send_port"]));
             }
             set {
-                this["port_reciver"] = value;
+                this["Send_port"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Available,Unavailable,Offline,Busy")]
-        public string Status {
+        [global::System.Configuration.DefaultSettingValueAttribute("1")]
+        public int Recive_port {
             get {
-                return ((string)(this["Status"]));
+                return ((int)(this["Recive_port"]));
             }
             set {
-                this["Status"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("ME")]
-        public string UserName {
-            get {
-                return ((string)(this["UserName"]));
-            }
-            set {
-                this["UserName"] = value;
+                this["Recive_port"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Ip_reciver {
+        public string IP_reciver {
             get {
-                return ((string)(this["Ip_reciver"]));
+                return ((string)(this["IP_reciver"]));
             }
             set {
-                this["Ip_reciver"] = value;
+                this["IP_reciver"] = value;
             }
         }
     }

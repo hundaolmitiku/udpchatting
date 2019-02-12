@@ -117,14 +117,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="configuration" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\configuration.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="button3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJ
+        TUUH4goeCg4szOLsnwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAHOSURBVEhL
+        tZU7SgVBEEVfoJEiCGrkBlyEiZgJKpr6wYWI4FJcgsswMXMJBmYGKv7Qe4a+0tNTPT0G78Lhzac+011V
+        /WYNbYg9cSVuxWOCa57xDpt/a0Fcig/x0wAbbPGZpC1xJ/Ig3+JB3CS45llugw++ozoTb8JO92JXLItS
+        POMdNrbHlxihyO7gn+JaLIqWsMEWHycZrIT987ZguC1WEi2tJ/BxEmL1akKReAF8zZp4TuyImo7Fu+Cr
+        SYKv4xCzE23mbmE/WfKm+ErPXkSU5Ej4i0lCAnxdE2J2LUwv8wAomnUh3CllkkPhjyIJK7GI4XjE7gaG
+        G4KV3XIuyiQHwsH5ZSW5iGEfYndTyQ29HelU2OFVsB0OzkoiEQsbYnejzw0DVNOJcE2AJKykJmJhR+xJ
+        CfaFtwVYyVh39RK0tojg+ba0ugv1tmisyHlwfrlnu8rC5xoUudamUXArL3yZZNCm0aCtChyj4Fbewkw8
+        x0o4aKg8KpbEkyBJFNxiGKmJE4RHBYoOO5KwkpY4Vji7Rg87NNfj2prrH45Fdm+XoZj0NgMEXLvABp/q
+        l5di/yhSPr01sMF2sOdTRJvRywwMU8noA9c8491fKw41m/0Cf6DvZvlUytgAAAAASUVORK5CYII=
+</value>
   </data>
-  <data name="menu-interface-symbol-of-four-horizontal-lines-with-dots" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\menu-interface-symbol-of-four-horizontal-lines-with-dots.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <metadata name="fileSystemWatcher1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="buttonSend.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJ
+        TUUH4gofCC4JqVqvcQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADhSURBVEhL
+        tdarCgJBGIbhFe9CMCiINqPRajFYxRvQZDaIildgshqtmsQqgodoM3oTgoq+Aw7s4i97mv+DpyzMN7Az
+        O7PeN13MMEDOPHCZCd4+d8xRgJPs4Z/AemCBMlLlAGkC64UlqkiUEaRiyQo1xEoeT0iF/2xRR+SsIRWF
+        2aGB0DQhFUR1RgsZiMniBmlwHBe0Yfp+MoY0KIkrOgjELLbZktKApHoIpIiKQyUEojqB+itSXWT1bar+
+        oakeFeqHnfpxfYRUZqW+cE6Qip1dmUP4i51f+iZ9bDCFw98Wz/sAtPoZovnCe+kAAAAASUVORK5CYII=
+</value>
   </data>
-  <data name="menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="button4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAF
+        ugAABboBG+2NyQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAACVSURBVEhLY/j/
+        /z9NMcPrXSL2b3aJTsCHX+8U7X++XUIBmwGEMNACsa9A/J8IvBebAYQwyAJshmHDJ7AZQAiTYIHotde7
+        JRxIwR93yAiR4gOS8ZtdYpdoagEI096CN4c0D9ASM7w/5/WflnjUAoJ41AKCeNQCgnh4WPAVXZCK+CvQ
+        Ak/792e9JtAEA83GWo9SD/9nAABxdX7Gff2jBwAAAABJRU5ErkJggg==
+</value>
   </data>
+  <metadata name="openFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>176, 17</value>
+  </metadata>
 </root>
